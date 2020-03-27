@@ -2,3 +2,8 @@ section{
   width: 1440px;
   margin:0 auto;
 }
+
+h5{
+	color: #42b983;
+	font-weight: bold;
+}
